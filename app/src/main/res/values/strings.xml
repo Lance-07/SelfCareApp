@@ -1,0 +1,169 @@
+<resources>
+    <string name="app_name">ProjectSelfCare</string>
+    <string name="name_app">Self Care Inspi-app</string>
+
+    <string name="self_care_tip1">Start your day with a few minutes of meditation or deep breathing.</string>
+    <string name="self_care_tip2">Take a relaxing bath or shower.</string>
+    <string name="self_care_tip3">Write down three things you are grateful for.</string>
+    <string name="self_care_tip4">Get a good night\'s sleep.</string>
+    <string name="self_care_tip5">Spend time in nature.</string>
+    <string name="self_care_tip6">Practice yoga or stretching.</string>
+    <string name="self_care_tip7">Listen to your favorite music.</string>
+    <string name="self_care_tip8">Take a break from technology and social media.</string>
+    <string name="self_care_tip9">Treat yourself to a favorite snack or meal.</string>
+    <string name="self_care_tip10">Practice saying "no" to commitments that don\'t serve you.</string>
+    <string name="self_care_tip11">Go for a walk in your neighborhood or park.</string>
+    <string name="self_care_tip12">Do something creative, such as drawing or painting.</string>
+    <string name="self_care_tip13">Schedule a massage or other self-care service.</string>
+    <string name="self_care_tip14">Spend time with a friend or loved one who uplifts you.</string>
+    <string name="self_care_tip15">Try a new hobby or activity.</string>
+    <string name="self_care_tip16">Learn something new, such as a language or skill.</string>
+    <string name="self_care_tip17">Unplug from work for an afternoon or weekend.</string>
+    <string name="self_care_tip18">Read a book or listen to an audiobook.</string>
+    <string name="self_care_tip19">Spend time with pets or animals.</string>
+    <string name="self_care_tip20">Practice self-compassion and self-forgiveness.</string>
+    <string name="self_care_tip21">Write in a journal or start a gratitude practice.</string>
+    <string name="self_care_tip22">Drink plenty of water and eat nourishing foods.</string>
+    <string name="self_care_tip23">Take a digital detox and unplug completely.</string>
+    <string name="self_care_tip24">Practice mindfulness and being present in the moment.</string>
+    <string name="self_care_tip25">Get a pedicure or manicure.</string>
+    <string name="self_care_tip26">Watch a favorite movie or TV show.</string>
+    <string name="self_care_tip27">Take a nap or rest when you need it.</string>
+    <string name="self_care_tip28">Practice deep breathing or progressive muscle relaxation.</string>
+    <string name="self_care_tip29">Declutter your living space.</string>
+    <string name="self_care_tip30">Reflect on your self-care journey and celebrate your progress.</string>
+
+    <string name="day_1">Day 1</string>
+    <string name="day_2">Day 2</string>
+    <string name="day_3">Day 3</string>
+    <string name="day_4">Day 4</string>
+    <string name="day_5">Day 5</string>
+    <string name="day_6">Day 6</string>
+    <string name="day_7">Day 7</string>
+    <string name="day_8">Day 8</string>
+    <string name="day_9">Day 9</string>
+    <string name="day_10">Day 10</string>
+    <string name="day_11">Day 11</string>
+    <string name="day_12">Day 12</string>
+    <string name="day_13">Day 13</string>
+    <string name="day_14">Day 14</string>
+    <string name="day_15">Day 15</string>
+    <string name="day_16">Day 16</string>
+    <string name="day_17">Day 17</string>
+    <string name="day_18">Day 18</string>
+    <string name="day_19">Day 19</string>
+    <string name="day_20">Day 20</string>
+    <string name="day_21">Day 21</string>
+    <string name="day_22">Day 22</string>
+    <string name="day_23">Day 23</string>
+    <string name="day_24">Day 24</string>
+    <string name="day_25">Day 25</string>
+    <string name="day_26">Day 26</string>
+    <string name="day_27">Day 27</string>
+    <string name="day_28">Day 28</string>
+    <string name="day_29">Day 29</string>
+    <string name="day_30">Day 30</string>
+
+    <string name="self_care_explanation_1">
+        Starting your day with a few minutes of meditation or deep breathing can help improve your physical and mental well-being.
+        These practices can help you feel more focused, reduce stress and anxiety, and have a positive impact on your overall health.
+        You can easily incorporate them into your morning routine by taking a few minutes to sit quietly and focus on your breath before starting your day.
+    </string>
+    <string name="self_care_explanation_2">
+        Taking a relaxing bath or shower can help you relieve stress, relax your muscles, and promote a sense of calm.
+        It\'s an easy way to feel refreshed and energized, and can be incorporated into your routine by taking a bath before bed or a quick shower in the morning.
+    </string>
+    <string name="self_care_explanation_3">
+        Writing down three things you are grateful for is a simple yet effective way to cultivate a positive mindset and improve your overall well-being.
+        It can help shift your focus from negative to positive things, and bring a sense of gratitude and appreciation to your life.
+    </string>
+    <string name="self_care_explanation_4">
+        Getting a good night\'s sleep is essential for your physical and mental health. It helps to recharge your body and mind, boost your mood, and improve your overall well-being.
+    </string>
+    <string name="self_care_explanation_5">
+        Spending time in nature can be incredibly beneficial for your mental health. It can help to reduce stress, improve your mood, and promote a sense of calm and relaxation.
+    </string>
+    <string name="self_care_explanation_6">
+        Practicing yoga or stretching can help you improve your physical and mental well-being. By stretching your muscles and holding poses, you can increase flexibility,
+        improve circulation, and reduce tension and stress in your body. Yoga also incorporates breathing techniques and meditation, which can help you calm your mind and reduce feelings of
+        anxiety or overwhelm. Even just a few minutes of stretching or yoga can leave you feeling more relaxed, centered, and focused.
+    </string>
+    <string name="self_care_explanation_7">
+        Listening to your favorite music can be a quick and effective way to boost your mood and reduce stress. It can help you relax, feel more positive, and even improve your physical health by
+        lowering blood pressure and heart rate. Just a few minutes of listening to music can make a big difference in how you feel.
+    </string>
+    <string name="self_care_explanation_8">
+        Taking a break from technology and social media can help reduce stress and improve mental health. It allows you to focus on the present moment and connect with yourself and those around you.
+    </string>
+    <string name="self_care_explanation_9">
+        Treating yourself to a favorite snack or meal can be a simple way to boost your mood and improve your overall well-being. It can bring a sense of pleasure and enjoyment to your day.
+    </string>
+    <string name="self_care_explanation_10">
+        Practicing saying "no" to commitments that don\'t serve you can help you prioritize your time and energy. It allows you to focus on the things that are truly important to you and can help reduce stress and overwhelm.
+    </string>
+    <string name="self_care_explanation_11">
+        Going for a walk in your neighborhood or park can be a great way to get exercise, clear your mind, and connect with nature. It can improve your mood and reduce stress and anxiety.
+    </string>
+    <string name="self_care_explanation_12">
+        Doing something creative, such as drawing or painting, can help you express yourself and reduce stress. It can also boost your mood and promote a sense of relaxation and enjoyment.
+    </string>
+    <string name="self_care_explanation_13">
+        Scheduling a massage or other self-care service can be a great way to relax and reduce stress. It can help you feel rejuvenated and promote overall well-being.
+    </string>
+    <string name="self_care_explanation_14">
+        Spending time with a friend or loved one who uplifts you can be a great way to boost your mood and improve your mental health. It can provide a sense of connection and support.
+    </string>
+    <string name="self_care_explanation_15">
+        Trying a new hobby or activity can be a fun way to learn something new and reduce stress. It can also help improve your mood and promote overall well-being.
+    </string>
+    <string name="self_care_explanation_16">
+        Learning something new, such as a language or skill, can be a great way to challenge yourself and boost your confidence. It can also promote brain health and reduce the risk of cognitive decline.
+    </string>
+    <string name="self_care_explanation_17">
+        Unplugging from work for an afternoon or weekend can help you recharge and reduce stress. It allows you to focus on other aspects of your life and promotes a healthy work-life balance.
+    </string>
+    <string name="self_care_explanation_18">
+        Reading a book or listening to an audiobook can be a great way to relax and reduce stress. It can also promote cognitive function and improve mental health.
+    </string>
+    <string name="self_care_explanation_19">
+        Spending time with pets or animals can be a great way to reduce stress and improve overall well-being. It can provide a sense of connection and support.
+    </string>
+    <string name="self_care_explanation_20">
+        Practicing self-compassion and self-forgiveness can help improve mental health and reduce stress. It allows you to be kind to yourself and let go of negative self-talk.
+    </string>
+    <string name="self_care_explanation_21">
+        Writing in a journal or starting a gratitude practice can be a great way to improve mental health and reduce stress. It allows you to reflect on your thoughts and feelings and promotes a sense of gratitude and positivity.
+    </string>
+    <string name="self_care_explanation_22">
+        Drinking plenty of water and eating nourishing foods can help improve physical and mental health. It provides the body with the nutrients it needs to function properly and can boost energy levels.
+    </string>
+    <string name="self_care_explanation_23">
+        Taking a digital detox and unplugging completely can help reduce stress and improve mental health. It allows you to focus on other aspects of your life and promotes a healthy relationship with technology.
+    </string>
+    <string name="self_care_explanation_24">
+        Practicing mindfulness and being present in the moment can be a great way to reduce stress and improve mental health. It allows you to focus on the present moment and let go of worries about the past or future.
+    </string>
+    <string name="self_care_explanation_25">
+        Getting a pedicure or manicure can be a simple way to relax and reduce stress. It can also boost confidence and promote self-care.
+    </string>
+    <string name="self_care_explanation_26">
+        Watching a favorite movie or TV show can be a great way to relax and reduce stress. It provides a sense of enjoyment and can promote overall well-being.
+    </string>
+    <string name="self_care_explanation_27">
+        Taking a nap or rest when you need it can be a great way to recharge and reduce stress. It allows the body and mind to rest and recuperate
+    </string>
+    <string name="self_care_explanation_28">
+        Taking a few minutes to practice deep breathing or progressive muscle relaxation can help you reduce stress, anxiety, and tension in your body. By focusing on your breath or tensing and relaxing your muscles,
+        you can calm your mind and body and feel more relaxed and at ease.
+    </string>
+    <string name="self_care_explanation_29">
+        Decluttering your living space can help you feel more organized and reduce stress. By removing excess items and creating a more orderly environment, you can create a sense of calm and reduce visual distractions that
+        may contribute to feelings of overwhelm or anxiety.
+    </string>
+    <string name="self_care_explanation_30">
+        Reflecting on your self-care journey can help you recognize your accomplishments and identify areas where you can continue to grow and improve. Celebrating your progress, no matter how small, can help you stay motivated
+        and committed to taking care of yourself. By acknowledging your efforts and successes, you can feel more confident and empowered to continue making positive changes in your life.
+    </string>
+
+
+</resources>
